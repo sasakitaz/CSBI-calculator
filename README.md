@@ -16,3 +16,6 @@ It contained following files.
 ### How to build this program in your environment
 1. command `python setup.py install`
 2. command `python calculator200.py`
+
+# Lisence
+This project is licensed under the MIT License, see the LICENSE.txt file for details
