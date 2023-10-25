@@ -8,7 +8,7 @@ CSBI calculator GUI program for Linux and Windows
 1. open calculator folder
 2. double-click calculator.exe
 
-## original program
+## Souce Code
 It contained following files.
 1. Hamiltonian matrix element generation program written by C++ (MatrixElement300.h, Parameter.h, tools.h, Wigner3jSymbol.h)
 2. Python C++ API program (CSBICalculationModule.cpp, CSBICalculation_Module.py, setup.py)
