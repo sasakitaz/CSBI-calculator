@@ -6,8 +6,6 @@ import CSBICalcModule
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import numpy as np
-import threading
-import tqdm
 
 from tkinter import messagebox
 
